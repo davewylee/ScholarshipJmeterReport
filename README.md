@@ -12,13 +12,15 @@ Number of new scholarships: 3000
 
 Number of logins: 40
 
-### test script
+
+### Test script
 
 Execution threads: 10
 
 Startup delay: 5 seconds
 
 Loop duration: 20 minutes
+
 
 ### Test script process
 
@@ -27,6 +29,7 @@ Log in 10 users within 5 seconds
 100 requests per user
 
 Repeat 3 times
+
 
 ### Summary report
 
